@@ -1,0 +1,20 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "space website",
+  "main": "home.js",
+  "scripts": {
+    "test": "web"
+  },
+  "keywords": [
+    "space",
+    "website"
+  ],
+  "author": "kullay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "pug": "^3.0.0"
+  }
+}
